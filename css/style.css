@@ -163,7 +163,21 @@ footer a{
 .footer-mail{
 		color: #fff;
 		text-align: right;
-	}
+}
+.footer-button{
+	cursor: pointer;
+	color: #fff;
+	background: #101a45;
+	margin-top: 10px;
+	outline:none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	border: 2px solid #3040de;
+}
+.footer-button:hover{
+	background: #0e173c;
+	border: 2px solid #1e2dc2;
+}
 @media(max-width: 1200px){
 		.object-header{
 			display: none;
@@ -186,5 +200,9 @@ footer a{
 	header h1{
 		font-size: 10px;
 	}
+	.head-menu a{
+	font-size: 10px;
+	padding-right: 10px;
+}
 }
 
