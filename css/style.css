@@ -145,8 +145,25 @@ article button:active{
 	font-size: 12px;
 	margin-top: 10px;
 	color: #132d3d;
-
 }
+footer{
+	background: #101a45;
+	height: 200px;
+	padding-top: 50px;
+}
+footer h2{
+	color: #fff;
+}
+footer p{
+	color: #fff;
+}
+footer a{
+	margin-top: 50px;
+}
+.footer-mail{
+		color: #fff;
+		text-align: right;
+	}
 @media(max-width: 1200px){
 		.object-header{
 			display: none;
@@ -170,3 +187,4 @@ article button:active{
 		font-size: 10px;
 	}
 }
+
