@@ -192,6 +192,15 @@ footer a{
 	article input{
 		width: 170px;
 	}
+	 footer h2{
+	 font-size: 20px;
+	}
+	footer p{
+		font-size: 15px;
+	}
+	.footer-mail{
+		font-size: 15px;
+	}
 }
 @media(max-width: 768px){
 	header a{
